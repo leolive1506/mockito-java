@@ -7,3 +7,6 @@
   - O teste deve invocar primeiro o método A, passando o valor 1 como parâmetro, daí retorno B. 
   - O teste deve depois invocar o método X, passando o valor 2 como parâmetro, daí retorno Y.
   - Se o teste não seguir exatamente esta sequência, ele falha.
+
+# Spy
+- referencia objeto real de classe e "espiona" ela
